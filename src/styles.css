@@ -1,0 +1,21 @@
+html,
+body {
+  background: url("../images/background.jpg") center/cover fixed no-repeat;
+  font-family: "Roboto Serif", sans-serif;
+}
+
+h1 {
+  text-align: center;
+}
+
+input {
+  border: none;
+  border-radius: 0.5rem;
+  padding: 1%;
+  margin: 1%;
+}
+
+li {
+  list-style: none;
+  padding: 8px;
+}
